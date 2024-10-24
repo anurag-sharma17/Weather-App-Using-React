@@ -16,3 +16,4 @@ const SearchBar = ({ city, setCity, getWeather }) => {
 };
 
 export default SearchBar;
+  
