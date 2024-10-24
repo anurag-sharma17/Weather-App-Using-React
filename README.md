@@ -8,6 +8,10 @@ A simple weather application built with React that allows users to search for cu
 - Displays current temperature, humidity, wind speed, and weather conditions.
 - Responsive design suitable for both desktop and mobile.
 
+## Live Demo
+
+Check out the live version of the app here: [Weather App](https://anuweathers.netlify.app/)
+
 ## Technologies Used
 
 - React
