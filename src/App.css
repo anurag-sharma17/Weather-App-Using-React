@@ -90,9 +90,9 @@ p {
     margin: 20px;
     padding: 15px;
   }
-  
+
   .search-bar button {
-    width: 30%; // Adjust this as needed
+    width: 30%; 
     margin-left: 5px;
   }
 
